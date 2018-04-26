@@ -9,7 +9,7 @@ RUN \
   apt-get clean -y && \
   rm -rf /var/lib/apt/lists/*
 
-COPY . ${HOME}
+COPY notebooks/ ${HOME}
 RUN chown -R ${NB_UID} ${HOME}
 
 USER $NB_USER
