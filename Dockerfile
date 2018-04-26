@@ -15,7 +15,7 @@ RUN chown -R ${NB_UID} ${HOME}
 USER $NB_USER
 
 RUN \
-  conda install autograd matplotlib numpy pandas patsy scipy && \
+  conda install autograd matplotlib numpy pandas patsy scikit-learn scipy && \
   conda install -c conda-forge cvxopt glpk keras tensorflow && \
   conda install -c cvxgrp ecos multiprocess scs
 
