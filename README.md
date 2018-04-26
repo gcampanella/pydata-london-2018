@@ -4,3 +4,26 @@
 By Gianluca Campanella (<gianluca@campanella.org>)
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
+
+## Materials
+
+* [Slides](https://cdn.rawgit.com/gcampanella/pydata-london-2018/slides/pydata_london_2018.pdf)
+
+* **Notebooks**
+  1. [Linearly programmed breakfast](https://cdn.rawgit.com/gcampanella/pydata-london-2018/notebooks/01_LP_Breakfast.ipynb)
+  1. [Quantile regression](https://cdn.rawgit.com/gcampanella/pydata-london-2018/notebooks/02_Quantile_Regression.ipynb)
+  1. [Elastic net penalisation](https://cdn.rawgit.com/gcampanella/pydata-london-2018/notebooks/03_Elastic_Net.ipynb)
+  1. [Survival analysis](https://cdn.rawgit.com/gcampanella/pydata-london-2018/notebooks/04_Survival_Analysis.ipynb)
+  1. [Multi-layer perceptron](https://cdn.rawgit.com/gcampanella/pydata-london-2018/notebooks/05_MLP.ipynb)
+
+## Additional resources
+
+* **Books**
+  * [*Convex Optimization*](https://web.stanford.edu/~boyd/cvxbook/)
+  * [*Introduction to Nonlinear and Global Optimization*](https://www.springer.com/us/book/9780387886695)
+  * [*Numerical Optimization*](https://www.springer.com/us/book/9780387303031)
+  * [*Optimization – Theory and Practice*](https://www.springer.com/us/book/9780387789767)
+
+* **Courses**
+  * [CVX101](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)
+  * [EE364a: Convex Optimization I](https://web.stanford.edu/class/ee364a/)
