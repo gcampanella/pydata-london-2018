@@ -5,6 +5,8 @@ By Gianluca Campanella (<gianluca@campanella.org>)
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
 
+This repository contains the slides and notebooks for my tutorial *Follow the gradient: an introduction to mathematical optimisation* presented at [PyData London 2018](https://pydata.org/london2018/) in London, UK.
+
 ## Materials
 
 * [Slides](https://cdn.rawgit.com/gcampanella/pydata-london-2018/slides/pydata_london_2018.pdf)
