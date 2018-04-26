@@ -9,6 +9,9 @@ RUN \
   apt-get clean -y && \
   rm -rf /var/lib/apt/lists/*
 
+COPY . ${HOME}
+RUN chown -R ${NB_UID} ${HOME}
+
 USER $NB_USER
 
 RUN \
@@ -22,4 +25,3 @@ RUN \
   git checkout 1.0 && \
   python setup.py install && \
   rm -rf /tmp/cvxpy
-
