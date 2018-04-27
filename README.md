@@ -13,10 +13,11 @@ This repository contains the slides and notebooks for my tutorial *Follow the gr
 
 * **Notebooks** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gcampanella/pydata-london-2018/master)
   1. [Linearly programmed breakfast](https://cdn.rawgit.com/gcampanella/pydata-london-2018/master/notebooks/01_LP_Breakfast.ipynb)
-  1. [Quantile regression](https://cdn.rawgit.com/gcampanella/pydata-london-2018/master/notebooks/02_Quantile_Regression.ipynb)
-  1. [Elastic net penalisation](https://cdn.rawgit.com/gcampanella/pydata-london-2018/master/notebooks/03_Elastic_Net.ipynb)
-  1. [Survival analysis](https://cdn.rawgit.com/gcampanella/pydata-london-2018/master/notebooks/04_Survival_Analysis.ipynb)
-  1. [Multi-layer perceptron](https://cdn.rawgit.com/gcampanella/pydata-london-2018/master/notebooks/05_MLP.ipynb)
+  2. [Knapsack](https://cdn.rawgit.com/gcampanella/pydata-london-2018/master/notebooks/02_ILP_Knapsack.ipynb)
+  1. [Quantile regression](https://cdn.rawgit.com/gcampanella/pydata-london-2018/master/notebooks/03_Quantile_Regression.ipynb)
+  1. [Elastic net penalisation](https://cdn.rawgit.com/gcampanella/pydata-london-2018/master/notebooks/04_Elastic_Net.ipynb)
+  1. [Survival analysis](https://cdn.rawgit.com/gcampanella/pydata-london-2018/master/notebooks/05_Survival_Analysis.ipynb)
+  1. [Multi-layer perceptron](https://cdn.rawgit.com/gcampanella/pydata-london-2018/master/notebooks/06_MLP.ipynb)
 
 ## Additional resources
 
