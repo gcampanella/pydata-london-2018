@@ -9,7 +9,7 @@ This repository contains the slides and notebooks for my tutorial *Follow the gr
 
 ## Materials
 
-* [Slides](https://cdn.rawgit.com/gcampanella/pydata-london-2018/master/slides/pydata_london_2018.pdf)
+* [**Slides**](https://cdn.rawgit.com/gcampanella/pydata-london-2018/master/slides/pydata_london_2018.pdf)
 
 * **Notebooks** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gcampanella/pydata-london-2018/master)
   1. [Linearly programmed breakfast](https://cdn.rawgit.com/gcampanella/pydata-london-2018/master/notebooks/01_LP_Breakfast.ipynb)
