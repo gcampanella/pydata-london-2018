@@ -7,6 +7,8 @@ By Gianluca Campanella (<gianluca@campanella.org>)
 
 This repository contains the slides and notebooks for my tutorial *Follow the gradient: an introduction to mathematical optimisation* presented at [PyData London 2018](https://pydata.org/london2018/) in London, UK.
 
+A recording is available on [YouTube](https://www.youtube.com/watch?v=-ofK_SMKjUY).
+
 ## Materials
 
 * [**Slides**](https://cdn.rawgit.com/gcampanella/pydata-london-2018/master/slides/pydata_london_2018.pdf)
